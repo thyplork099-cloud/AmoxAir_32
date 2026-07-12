@@ -3,7 +3,7 @@
 #ifndef USE_MAKE
 // #define F031_DEV
 // #define FD6288_F051
- #define IFLIGHT
+ //#define IFLIGHT
 // #define MP6531
 // #define TMOTOR55     // like iflight but with leds
 // #define TMOTOR45
@@ -699,7 +699,7 @@
 #ifdef AT32DEV_F421
 #define FIRMWARE_NAME "AT32PB4     "
 #define FILE_NAME "AT32DEV_F421"
-#define DEAD_TIME 60
+#define DEAD_TIME 30
 #define HARDWARE_GROUP_AT_B
 #define HARDWARE_GROUP_AT_045
 #define USE_SERIAL_TELEMETRY
