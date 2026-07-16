@@ -1,7 +1,7 @@
 
 
 #ifndef USE_MAKE
-#define F031_DEV
+//#define F031_DEV
 // #define FD6288_F051
 // #define IFLIGHT
 // #define MP6531
@@ -1149,7 +1149,7 @@
 #ifdef  TEKKO32_4IN1_F421
 #define FIRMWARE_NAME "Tekko32 4in1"
 #define FILE_NAME "TEKKO32_4IN1_F421"
-#define DEAD_TIME 80
+#define DEAD_TIME 70
 #define HARDWARE_GROUP_AT_B
 #define HARDWARE_GROUP_AT_045
 #define USE_SERIAL_TELEMETRY
