@@ -19,7 +19,6 @@
 // #define BLPWR
 // #define HVFLYCOLOR
 // #define AM32REF_F051
- #define AmoxAir_F421
 
 // #define G072ESC
 // #define G071ENABLE
@@ -700,19 +699,6 @@
 #ifdef AT32DEV_F421
 #define FIRMWARE_NAME "AT32PB4     "
 #define FILE_NAME "AT32DEV_F421"
-#define DEAD_TIME 60
-#define HARDWARE_GROUP_AT_B
-#define HARDWARE_GROUP_AT_045
-#define USE_SERIAL_TELEMETRY
-#define CURRENT_ADC_CHANNEL ADC_CHANNEL_3
-#define CURRENT_ADC_PIN GPIO_PINS_3
-#define VOLTAGE_ADC_CHANNEL ADC_CHANNEL_6
-#define VOLTAGE_ADC_PIN GPIO_PINS_6
-#endif
-
-#ifdef AmoxAir_F421
-#define FIRMWARE_NAME "AT32PB4     "
-#define FILE_NAME "AmoxAir_F421"
 #define DEAD_TIME 80
 #define HARDWARE_GROUP_AT_B
 #define HARDWARE_GROUP_AT_045
