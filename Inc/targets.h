@@ -19,7 +19,7 @@
 // #define BLPWR
 // #define HVFLYCOLOR
 // #define AM32REF_F051
- #define AMOX32_4IN1_F421
+ //#define AMOX32_4IN1_F421
 // #define G072ESC
 // #define G071ENABLE
 // #define G071_OPEN_DRAIN
