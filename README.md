@@ -1,4 +1,4 @@
-# AM32-MultiRotor-ESC-firmware
+# AMOX32
 Firmware for ARM based speed controllers
 <p align="left">
   <a href="/LICENSE"><img src="https://img.shields.io/badge/license-GPL--3.0-brightgreen" alt="GitHub license" /></a>
